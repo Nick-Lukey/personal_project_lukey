@@ -1,3 +1,3 @@
 # SQL Schema
 
-![Screenshot 2023-04-10 at 5 06 18 PM](https://user-images.githubusercontent.com/85093425/231001731-da15e4c8-046e-4d09-a12d-f6332f1b70c9.png)
+![Screenshot 2023-04-11 at 2 25 28 PM](https://user-images.githubusercontent.com/85093425/231255732-ea057cad-425c-4dda-ad66-d8b4eb036a0a.png)
